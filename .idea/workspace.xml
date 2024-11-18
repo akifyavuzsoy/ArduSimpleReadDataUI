@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9e09108a-dd15-4c9a-b90b-6c43b918ef2d" name="Changes" comment="V01.01.02:&#10;&#10;Create first code files and get data in U-Blox ArduSimple module">
+    <list default="true" id="9e09108a-dd15-4c9a-b90b-6c43b918ef2d" name="Changes" comment="V01.01.03:&#10;&#10;In order to make sense of the received data, it was written to a txt file and a parse algorithm was started to work to make sense of it.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
@@ -48,7 +48,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "Python.main.executor": "Debug",
+    "Python.main.executor": "Run",
     "Python.main1.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -141,7 +141,15 @@
       <option name="project" value="LOCAL" />
       <updated>1731940210976</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="V01.01.03:&#10;&#10;In order to make sense of the received data, it was written to a txt file and a parse algorithm was started to work to make sense of it.">
+      <option name="closed" value="true" />
+      <created>1731952520228</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1731952520228</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -158,17 +166,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="V01.01.01:&#10;&#10;Create Project Files" />
     <MESSAGE value="V01.01.02:&#10;&#10;Create first code files and get data in U-Blox ArduSimple module" />
-    <option name="LAST_COMMIT_MESSAGE" value="V01.01.02:&#10;&#10;Create first code files and get data in U-Blox ArduSimple module" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/main.py</url>
-          <line>75</line>
-          <option name="timeStamp" value="17" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <MESSAGE value="V01.01.03:&#10;&#10;In order to make sense of the received data, it was written to a txt file and a parse algorithm was started to work to make sense of it." />
+    <option name="LAST_COMMIT_MESSAGE" value="V01.01.03:&#10;&#10;In order to make sense of the received data, it was written to a txt file and a parse algorithm was started to work to make sense of it." />
   </component>
 </project>
